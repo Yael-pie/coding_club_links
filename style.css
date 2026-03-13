@@ -129,4 +129,7 @@ body {
     #page_title {
         font-size: 80px;
     }
+    body {
+        overflow: scroll;
+    }
 }
